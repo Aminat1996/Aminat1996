@@ -1,6 +1,6 @@
 
 
-#Hello! I’m **AMINAT** 
+# Hello! I’m **AMINAT** 
 I'm data-driven problem solver with a passion for uncovering insights from data. I specialize in using analytics tools to transform raw information into valuable business decisions.
 
 ---
