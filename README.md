@@ -1,14 +1,7 @@
 
 
-Welcome to my **Data Analyst Landing Page**, a live portfolio hosted on **GitHub Pages** showcasing my expertise, tools, and hands-on projects in data analysis.
-
-🟢 **Live Site:** [https://Aminat1996.github.io](https://Aminat1996.github.io)
-
----
-
-## 👋 About Me
-
-Hello! I’m **AMINAT** a data-driven problem solver with a passion for uncovering insights from data. I specialize in using analytics tools to transform raw information into valuable business decisions.
+#Hello! I’m **AMINAT** 
+I'm data-driven problem solver with a passion for uncovering insights from data. I specialize in using analytics tools to transform raw information into valuable business decisions.
 
 ---
 
